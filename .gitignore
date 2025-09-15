@@ -3,7 +3,7 @@ __pycache__/
 private/
 *.py[cod]
 *$py.class
-
+private/
 # C extensions
 *.so
 
@@ -105,3 +105,4 @@ ENV/
 
 # IDE settings
 .vscode/
+hello.txt
