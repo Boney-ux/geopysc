@@ -15,7 +15,7 @@
 
 -  Create interactive maps
 -  Process geospatial data
-  
+
 
 ## usage
 ```python
