@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://Boney-ux.github.io/geopysc
-    
+
 
 ## Features
 
