@@ -15,4 +15,10 @@
 
 -  Create interactive maps
 -  Process geospatial data
--   
+
+
+## usage
+```python
+import geopysc
+import os
+```

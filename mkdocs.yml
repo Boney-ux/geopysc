@@ -80,7 +80,8 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/Boney-ux/geopysc/issues
     - Examples:
-        - examples/intro.ipynb
+          - examples/intro.ipynb
+          - examples/map.ipynb
     - API Reference:
           - geopysc module: geopysc.md
           - common module: common.md
