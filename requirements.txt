@@ -1,1 +1,8 @@
+folium
+geopandas
+ipyleaflet
+ipywidgets
+matplotlib
 numpy
+pandas
+shapely
