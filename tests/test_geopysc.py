@@ -2,7 +2,6 @@
 
 """Tests for `geopysc` package."""
 
-
 import unittest
 
 from geopysc import geopysc
